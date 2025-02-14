@@ -1,0 +1,17 @@
+{
+  "name": "lgs-preparation-website",
+  "version": "1.0.0",
+  "description": "LGS'ye Hazırlık Web Sitesi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "multer": "^1.4.2",
+    "sqlite3": "^5.0.0"
+  }
+}
